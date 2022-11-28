@@ -1,0 +1,6 @@
+customhost = "capstone.csm9epiyrude.ap-south-1.rds.amazonaws.com"
+customuser = "admin"
+custompass = "admin123"
+customdb = "employee"
+custombucket = "my-aws-capstone-bucket"
+customregion = "ap-south-1"
